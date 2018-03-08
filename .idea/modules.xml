@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DubboChat.iml" filepath="$PROJECT_DIR$/DubboChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-api/chat-api.iml" filepath="$PROJECT_DIR$/chat-api/chat-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-consumer/chat-consumer.iml" filepath="$PROJECT_DIR$/chat-consumer/chat-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-core/chat-core.iml" filepath="$PROJECT_DIR$/chat-core/chat-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-entity/chat-entity.iml" filepath="$PROJECT_DIR$/chat-entity/chat-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-provider/chat-provider.iml" filepath="$PROJECT_DIR$/chat-provider/chat-provider.iml" />
+    </modules>
+  </component>
+</project>
