@@ -19,7 +19,15 @@ public interface IBigVService
 {
     
     Map<String, Object> findUserCareList(UserCareDTO userCareDTO, String username);
-    
+
+    /**
+     * 2018年3月8日 17:14:09
+     * 查询是否关注过该大V
+     * @param redisUserInfo
+     * @param userId
+     * @param videoId
+     * @return
+     */
     boolean findAnchorIsCared(RedisUserInfoEntity redisUserInfo, int userId, String videoId);
     
     
